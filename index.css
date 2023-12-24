@@ -247,6 +247,9 @@ form{
             height: 30px;
             font-size: 30px;
         }
+        .form-field #date {
+            width: 100%;
+        }
 }
 
 
